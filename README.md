@@ -2,7 +2,7 @@
 - 👀 I’m interested in Webdesign & Web Development.
 - 🌱 I’m currently wrapping my head around ReactJS, SASS, and other webdev thingies.
 - 💞️ I’m looking to collaborate on my "Sapphictones", my upcoming project.
-- 📫 How to reach me [TBA] shortly
+- 📫 How to reach me SapphicDev@Protom.me
 - 😄 Pronouns: she/they
 - ⚡ Fun fact: There even are queer people on here.
 
